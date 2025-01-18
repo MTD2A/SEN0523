@@ -6,7 +6,7 @@ Jørgen Bo Madsen - V1 - September 2024 - dgmf@jorgen-madsen.dk
 -------------------------------------------------------------------------------------------------
 */
 
-const byte Sensor_Pin = 16;  // Digital D2 (no 5)
+const byte Sensor_Pin = 2;  // Digital D2 (no 5)
 
 
 void setup() {
