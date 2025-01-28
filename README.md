@@ -4,4 +4,4 @@
 
 <br/>
 
-<img src="https://github.com/MTD2A/FC-51/blob/main/image/Arduino-Sensor-Configuration.png" height="600">
+<img src="https://github.com/MTD2A/SEN0523/blob/main/image/SEN0503%20-%20SEN0523%20-%20E18_D50NK%20-%20E18_D80NK.png" height="600">
